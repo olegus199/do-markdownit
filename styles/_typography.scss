@@ -20,14 +20,14 @@ limitations under the License.
 $root-text-styles: true !default;
 
 // Text
-@if $root-text-styles {
-    & {
-        color: $gray4;
-        font-size: 16px;
-        position: relative;
-        z-index: 0;
-    }
-}
+// @if $root-text-styles {
+//     & {
+//         color: $gray4;
+//         font-size: 16px;
+//         position: relative;
+//         z-index: 0;
+//     }
+// }
 
 h1,
 h2,
